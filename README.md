@@ -1,4 +1,4 @@
-Estudo & Pratica 
+Estudo & Portfolio 
 
 ## Principais tecnologias/ferramentas utilizadas
 
